@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font: 150% sans-serif;
+  color: #333;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+a {
+  color: #F2994B;
+}
+
+.page {
+  color: white;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 100%;
+  text-align: center;
+  a {
+    color: white;
+  }
+}
+
+.home {
+  background: #F2CF66;
+}
+
+.blog{
+  background: #5BA2E0;
+}
+
+.about {
+  background: #F2994B;
+}
